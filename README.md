@@ -7,7 +7,7 @@
 </table>
 
 
-# WEBTE2 Zadanie č.2 LS 2022/2023
+# WEBTE2 2. Assignment SS 2022/2023
 
 This is an assignment for the WEBTE2 course for the academic year 2022/2023.
 
